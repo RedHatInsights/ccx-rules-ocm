@@ -1,0 +1,25 @@
+.env
+.pyenv
+*.pyc
+.ipynb_checkpoints
+*_build
+*.egg-info*
+.eggs/
+.tox/
+.docs/
+
+# VSC
+.vscode
+
+# python venv
+bin/
+lib/
+lib64
+pyvenv.cfg
+share/
+etc/
+venv/
+
+# swap files created by text editors
+*.swp
+*.~
